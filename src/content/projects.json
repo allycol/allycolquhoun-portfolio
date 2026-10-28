@@ -1,0 +1,1341 @@
+[
+  {
+    "slug": "zettle",
+    "title": "zettle",
+    "order": 0,
+    "cover": {
+      "src": "/work/zettle/00.webp",
+      "width": 1800,
+      "height": 1014
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "For most people, buying or selling a property is confusing and stressful. There are lots of parties, lots of documents, long waits and very little visibility of what is actually happening. Zettle set out to give everyone involved one place to see where things stand and exactly what they need to do next."
+      },
+      {
+        "type": "image",
+        "src": "/work/zettle/01.webp",
+        "width": 1651,
+        "height": 1178
+      },
+      {
+        "type": "heading",
+        "text": "My role"
+      },
+      {
+        "type": "text",
+        "text": "I was the lead designer on Zettle, sitting at the centre of a small, busy team. On one side were the head of product and several marketing managers. On the other were three to four developers. A big part of my job was keeping everyone moving in the same direction."
+      },
+      {
+        "type": "text",
+        "text": "I was often designing product UI while also delivering on marketing objectives, so I learned to switch between the two quickly without letting either slip. I worked through technical constraints with the developers and, where it helped, took on front end development myself. I also briefed and oversaw a junior designer, keeping their work consistent with the wider system."
+      },
+      {
+        "type": "text",
+        "text": "I spent much of my final year focused on the marketing and onboarding experience."
+      },
+      {
+        "type": "image",
+        "src": "/work/zettle/02.webp",
+        "width": 1800,
+        "height": 1144
+      },
+      {
+        "type": "heading",
+        "text": "Brand first"
+      },
+      {
+        "type": "text",
+        "text": "We set the look and feel before designing the product in detail. With the visual language agreed early, the team could focus product conversations on how things should work rather than how they should look."
+      },
+      {
+        "type": "image",
+        "src": "/work/zettle/03.webp",
+        "width": 1800,
+        "height": 774
+      },
+      {
+        "type": "heading",
+        "text": "A friendlier face for conveyancing"
+      },
+      {
+        "type": "text",
+        "text": "I created a playful illustration style, animated in Lottie, that became a key part of the interface. The idea was to make settlement feel like following a picture book: simple, step by step, and nothing to fear."
+      },
+      {
+        "type": "heading",
+        "text": "Acquisition website"
+      },
+      {
+        "type": "text",
+        "text": "The marketing pages were where I tested type pairings, colour, illustration and photography together. They carry the most personality, which let the product UI stay cleaner and more focused."
+      },
+      {
+        "type": "image",
+        "src": "/work/zettle/04.webp",
+        "width": 1800,
+        "height": 4833
+      },
+      {
+        "type": "heading",
+        "text": "Product UI"
+      },
+      {
+        "type": "text",
+        "text": "The product problems were complex, with several parties, many states and lots of edge cases. I kept the work in two streams. First I mapped and tested how each flow should work. Only then did I apply the visual design. Separating the two kept decisions clearer and stopped visual debates from slowing down functional ones."
+      }
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "comoditi",
+    "title": "Comoditi",
+    "order": 1,
+    "cover": {
+      "src": "/work/comoditi/00.webp",
+      "width": 1366,
+      "height": 769
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "Comoditi makes premium selvedge jeans and organic cotton tees. Selling premium denim online is hard: customers want to feel the fabric and be confident about fit before they spend. The store had to do the job a good salesperson would."
+      },
+      {
+        "type": "image",
+        "src": "/work/comoditi/01.webp",
+        "width": 1800,
+        "height": 640
+      },
+      {
+        "type": "heading",
+        "text": "My role"
+      },
+      {
+        "type": "text",
+        "text": "I designed the brand, the store and every asset around it, and looked after the digital side of the business day to day. That meant working across design, front end development, marketing and photography."
+      },
+      {
+        "type": "image",
+        "src": "/work/comoditi/02.webp",
+        "width": 1800,
+        "height": 2312
+      },
+      {
+        "type": "heading",
+        "text": "Building the brand"
+      },
+      {
+        "type": "text",
+        "text": "The identity evolved over several rounds as the label found its voice. The latest version is minimal and confident, letting the product and photography lead."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/comoditi/03.webp",
+            "width": 1130,
+            "height": 2989
+          },
+          {
+            "src": "/work/comoditi/04.webp",
+            "width": 1127,
+            "height": 4536
+          },
+          {
+            "src": "/work/comoditi/05.webp",
+            "width": 1131,
+            "height": 3037
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "A custom Shopify theme"
+      },
+      {
+        "type": "text",
+        "text": "I designed and built the Shopify theme and kept improving it over time. Off the shelf themes rarely fit a product exactly, so I customised existing modules and built new ones where the customer experience needed it."
+      },
+      {
+        "type": "image",
+        "src": "/work/comoditi/06.webp",
+        "width": 1800,
+        "height": 728
+      },
+      {
+        "type": "heading",
+        "text": "A sizing tool built from customer questions"
+      },
+      {
+        "type": "text",
+        "text": "The most common pre purchase questions were about fit. I designed a sizing tool that answered them on the product page, and it became one of the biggest drivers of conversion. [Add the uplift if you have it.]"
+      },
+      {
+        "type": "image",
+        "src": "/work/comoditi/07.webp",
+        "width": 1800,
+        "height": 1367
+      },
+      {
+        "type": "heading",
+        "text": "Testing and paid social"
+      },
+      {
+        "type": "text",
+        "text": "I split tested banners, copy and campaign landing pages using Google Optimize. Paid ads on Facebook and Instagram drove most of the sales, so I produced a steady stream of new creative to keep them performing."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/comoditi/08.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/09.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/10.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/11.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/12.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/13.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/14.webp",
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Photography"
+      },
+      {
+        "type": "text",
+        "text": "Apart from the odd stock image, I shot all of Comoditi's photography myself. Learning that skill on the job was one of the most rewarding parts of the project."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/comoditi/15.webp",
+            "width": 1080,
+            "height": 1350
+          },
+          {
+            "src": "/work/comoditi/16.webp",
+            "width": 1080,
+            "height": 1350
+          },
+          {
+            "src": "/work/comoditi/17.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/18.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/comoditi/19.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/20.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/comoditi/21.webp",
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "livesign",
+    "title": "Livesign",
+    "order": 2,
+    "cover": {
+      "src": "/work/livesign/00.webp",
+      "width": 1800,
+      "height": 1014
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "Signing a mortgage or loan contract is a big moment for a customer and a heavily regulated one for a lender. Livesign needed to move the whole process online, including verifying the signer's identity, without it feeling risky or complicated to someone who might only ever use it once. It also had to earn the trust of major financial institutions before they would put their own customers through it."
+      },
+      {
+        "type": "image",
+        "src": "/work/livesign/01.webp",
+        "width": 1719,
+        "height": 1983
+      },
+      {
+        "type": "heading",
+        "text": "My role"
+      },
+      {
+        "type": "text",
+        "text": "I was the designer on Livesign from the first concept to the latest release, owning the brand, the end to end product experience and every piece of collateral around it."
+      },
+      {
+        "type": "text",
+        "text": "I sat between the head of product, several marketing managers and a development team of three to four. Balancing product priorities with marketing goals was a constant part of the role, and I regularly worked through technical constraints with the developers, contributing to the front end build where it made sense. I also briefed and oversaw the work of a junior designer."
+      },
+      {
+        "type": "image",
+        "src": "/work/livesign/02.webp",
+        "width": 1800,
+        "height": 1144
+      },
+      {
+        "type": "heading",
+        "text": "A brand built for trust"
+      },
+      {
+        "type": "text",
+        "text": "I created the identity from scratch: logo, colour palette and type system. It had to do two jobs at once. To a bank it needed to look secure, capable and professional. To a first time signer it needed to feel calm and easy. Locking the visual language down early meant that once flows were agreed, we could move straight into high fidelity design and keep build moving quickly."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/livesign/03.webp",
+            "width": 1800,
+            "height": 2185
+          },
+          {
+            "src": "/work/livesign/04.webp",
+            "width": 1800,
+            "height": 2185
+          },
+          {
+            "src": "/work/livesign/05.webp",
+            "width": 1800,
+            "height": 2185
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Marketing website"
+      },
+      {
+        "type": "text",
+        "text": "The marketing site gave the brand room to stretch, with bolder type, illustration and photography. That freed the product itself to stay quieter and more formal, which suits a tool people use to sign legal documents."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/livesign/06.webp",
+            "width": 1242,
+            "height": 2208
+          },
+          {
+            "src": "/work/livesign/07.webp",
+            "width": 1242,
+            "height": 2208
+          },
+          {
+            "src": "/work/livesign/08.webp",
+            "width": 1242,
+            "height": 2208
+          },
+          {
+            "src": "/work/livesign/09.webp",
+            "width": 1242,
+            "height": 2208
+          },
+          {
+            "src": "/work/livesign/10.webp",
+            "width": 1242,
+            "height": 2208
+          },
+          {
+            "src": "/work/livesign/11.webp",
+            "width": 1242,
+            "height": 2208
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Designing the signing journey"
+      },
+      {
+        "type": "text",
+        "text": "The core of the product is a guided flow that takes a signer from invitation to identity check to a signed contract. My focus was reducing anxiety at every step: one task per screen, plain language instead of legal language, and clear feedback on what happens next."
+      },
+      {
+        "type": "embed",
+        "src": "https://www-ccv.adobe.io/v1/player/ccv/ScFjueVn5i3/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View"
+      },
+      {
+        "type": "heading",
+        "text": "Explaining a complex product with video"
+      },
+      {
+        "type": "text",
+        "text": "Video became one of our most useful tools for explaining Livesign to clients and signers. I storyboarded and scripted the explainer from scratch, sourced the footage, then edited it and built the animations myself."
+      },
+      {
+        "type": "heading",
+        "text": "Everything around the product"
+      },
+      {
+        "type": "text",
+        "text": "A SaaS platform needs far more than screens. Alongside the app I produced explainer animations, user guides, promotional videos and sales collateral, all from the same system."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/livesign/12.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/livesign/13.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/livesign/14.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/15.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/16.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/17.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/18.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/19.webp",
+            "width": 1080,
+            "height": 1920
+          },
+          {
+            "src": "/work/livesign/20.webp",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "src": "/work/livesign/21.webp",
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      }
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "kester-james",
+    "title": "Kester James",
+    "order": 3,
+    "cover": {
+      "src": "/work/kester-james/00.webp",
+      "width": 1800,
+      "height": 1014
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The work"
+      },
+      {
+        "type": "text",
+        "text": "Kester James was about to launch and needed an identity fast."
+      },
+      {
+        "type": "text",
+        "text": "With only an afternoon to work with, I focused on the essentials. Tight timeframes force clear decisions, and I'm really pleased with how it came together."
+      },
+      {
+        "type": "image",
+        "src": "/work/kester-james/01.webp",
+        "width": 1800,
+        "height": 1400
+      },
+      {
+        "type": "image",
+        "src": "/work/kester-james/02.webp",
+        "width": 1800,
+        "height": 3570
+      }
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "mercho-pod",
+    "title": "Mercho POD",
+    "order": 4,
+    "cover": {
+      "src": "/work/mercho-pod/00.webp",
+      "width": 1800,
+      "height": 1014
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Mercho Print on Demand"
+      },
+      {
+        "type": "text",
+        "text": "Initial design and branding for a new Australian print on demand service that was looking to fill the gap in the market for high quality, quick turnaround merchandising of tees, hoodies and caps."
+      },
+      {
+        "type": "image",
+        "src": "/work/mercho-pod/01.webp",
+        "width": 1674,
+        "height": 1451
+      },
+      {
+        "type": "heading",
+        "text": "Getting up and running"
+      },
+      {
+        "type": "text",
+        "text": "The initial brief was to design the basic branding - logo, colour palette and fonts and develop this further into a landing page (below). I then also design an Instagram mosaic (above) to attract potential clients who were just being introduced to the new service."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/mercho-pod/02.webp",
+            "width": 1440,
+            "height": 1769
+          },
+          {
+            "src": "/work/mercho-pod/03.webp",
+            "width": 1440,
+            "height": 3271
+          }
+        ]
+      }
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "galilee",
+    "title": "Galilee",
+    "order": 5,
+    "cover": {
+      "src": "/work/galilee/00.webp",
+      "width": 1366,
+      "height": 769
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "Galilee manages mortgage and loan documentation for some of Australia's largest financial institutions. The firm had a solid logo and colour palette, but no wider system for print or digital work. As it prepared to launch into conveyancing, it also needed to advertise online for the first time."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/galilee/01.webp",
+            "width": 1364,
+            "height": 1930
+          },
+          {
+            "src": "/work/galilee/02.webp",
+            "width": 1364,
+            "height": 1930
+          },
+          {
+            "src": "/work/galilee/03.webp",
+            "width": 1364,
+            "height": 1930
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Tender documents"
+      },
+      {
+        "type": "text",
+        "text": "Tender documents are how Galilee wins and retains business with national financial institutions, so they have to look as considered as the service behind them. I designed the tender system and managed it through to print, drawing on my background in print production."
+      },
+      {
+        "type": "image",
+        "src": "/work/galilee/04.webp",
+        "width": 1800,
+        "height": 804
+      },
+      {
+        "type": "heading",
+        "text": "Launch campaign"
+      },
+      {
+        "type": "text",
+        "text": "This was Galilee's first venture into online advertising. I led the campaign from ideation to rollout, planning and designing a suite of animated banners for Google and Bing to support the conveyancing launch."
+      }
+    ],
+    "year": "2023"
+  },
+  {
+    "slug": "selz",
+    "title": "Selz",
+    "order": 6,
+    "cover": {
+      "src": "/work/selz/00.webp",
+      "width": 1039,
+      "height": 584
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Selz"
+      },
+      {
+        "type": "text",
+        "text": "Selz was a Sydney startup taking on the task of providing an online store and payment platform to ecommerce entrepreneurs all over the world. I worked as part of a remotely located team as a UI and UX Designer."
+      },
+      {
+        "type": "image",
+        "src": "/work/selz/01.webp",
+        "width": 1800,
+        "height": 1400
+      },
+      {
+        "type": "heading",
+        "text": "Extending the brand"
+      },
+      {
+        "type": "text",
+        "text": "I spent the majority of my time there pushing the Selz branding to it's next level which meant transforming all of the platforms key marketing assets and creating a style guide."
+      },
+      {
+        "type": "text",
+        "text": "This included the home page, the login screen, the plans/pricing page and pretty much everything else in between."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/selz/02.webp",
+            "width": 1440,
+            "height": 4021
+          },
+          {
+            "src": "/work/selz/03.webp",
+            "width": 1800,
+            "height": 1400
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Banners & Ads"
+      },
+      {
+        "type": "text",
+        "text": "The improved look and feel was extended to our social presence and ad campaigns."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/selz/04.webp",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "src": "/work/selz/05.webp",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "src": "/work/selz/06.webp",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "src": "/work/selz/07.webp",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "src": "/work/selz/08.webp",
+            "width": 1200,
+            "height": 630
+          },
+          {
+            "src": "/work/selz/09.webp",
+            "width": 1200,
+            "height": 630
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Theme Store"
+      },
+      {
+        "type": "text",
+        "text": "I'm responsible for designing most of the themes within the Selz theme store as well as the theme store itself that has both the acquisition and store admin versions."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/selz/10.webp",
+            "width": 1440,
+            "height": 1197
+          },
+          {
+            "src": "/work/selz/11.webp",
+            "width": 1620,
+            "height": 1197
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "qantas",
+    "title": "Qantas",
+    "order": 7,
+    "cover": {
+      "src": "/work/qantas/00.webp",
+      "width": 1039,
+      "height": 584
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "As part of a large IT replatforming project, Qantas brought together a new UXD team to evaluate and redesign content, journeys and touch points across qantas.com, starting from a brand new brand guide."
+      },
+      {
+        "type": "image",
+        "src": "/work/qantas/01.webp",
+        "width": 1800,
+        "height": 1400
+      },
+      {
+        "type": "heading",
+        "text": "My role"
+      },
+      {
+        "type": "text",
+        "text": "I was a UI Designer in an agile, lean UX team. Day to day that meant sketch sessions, workshop facilitation, rapid prototyping, user testing and presenting to stakeholders."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/qantas/02.webp",
+            "width": 1440,
+            "height": 750
+          },
+          {
+            "src": "/work/qantas/03.webp",
+            "width": 1440,
+            "height": 775
+          },
+          {
+            "src": "/work/qantas/04.webp",
+            "width": 1440,
+            "height": 750
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Choosing where to focus"
+      },
+      {
+        "type": "text",
+        "text": "Rather than redesign everything at once, we focused on the journeys and UI elements that would make the biggest difference to business objectives. The one I spent most time on was the site masthead and navigation system, the part of the site every customer touches."
+      },
+      {
+        "type": "image",
+        "src": "/work/qantas/05.webp",
+        "width": 1800,
+        "height": 1033
+      },
+      {
+        "type": "heading",
+        "text": "Prototyping fast"
+      },
+      {
+        "type": "text",
+        "text": "We worked in short cycles, building interactive prototypes in InVision, Framer and Marvel so ideas could be tested within days rather than weeks."
+      },
+      {
+        "type": "image",
+        "src": "/work/qantas/06.webp",
+        "width": 1800,
+        "height": 2653
+      },
+      {
+        "type": "heading",
+        "text": "Testing in the terminal"
+      },
+      {
+        "type": "text",
+        "text": "We had an ideal testing setup. Most Friday afternoons we spoke with Qantas travellers waiting for their flights: real customers, with a few spare minutes and plenty of opinions. Their feedback shaped each round of prototypes."
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "frollo",
+    "title": "Frollo",
+    "order": 8,
+    "cover": {
+      "src": "/work/frollo/00.webp",
+      "width": 1039,
+      "height": 584
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Frollo"
+      },
+      {
+        "type": "text",
+        "text": "I came to work with Frollo whilst working with Sydney agency UDKU who had been tasked to rebrand and style the Frollo UI assets. I played a minor role in the rebranding and ended up reworking their entire UX. This continued in a contract capacity full time after finishing up with UDKU."
+      },
+      {
+        "type": "image",
+        "src": "/work/frollo/01.webp",
+        "width": 1800,
+        "height": 1329
+      },
+      {
+        "type": "text",
+        "text": "The founders at Frollo had amazing in-depth knowledge of their niche and fantastic ideas when it came to catering to their target user. What they lacked was translating all this into workable UI. The complexities between their ideas and technical solution often extended past initial assumptions."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/frollo/02.webp",
+            "width": 750,
+            "height": 1334
+          },
+          {
+            "src": "/work/frollo/03.webp",
+            "width": 750,
+            "height": 1334
+          },
+          {
+            "src": "/work/frollo/04.webp",
+            "width": 750,
+            "height": 1334
+          },
+          {
+            "src": "/work/frollo/05.webp",
+            "width": 750,
+            "height": 1334
+          },
+          {
+            "src": "/work/frollo/06.webp",
+            "width": 750,
+            "height": 1334
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "By the time I left Frollo I had mapped out and designed the UI and UX for the majority of the key features within the app. The end result was a semi-polished design that could have been made to look a bit nicer but at the time it wasn't the key concern. Maybe one day I'll have the opportunity to revisit that."
+      },
+      {
+        "type": "image",
+        "src": "/work/frollo/07.webp",
+        "width": 1800,
+        "height": 1329
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "fame-partners",
+    "title": "Fame & Partners",
+    "order": 9,
+    "cover": {
+      "src": "/work/fame-partners/00.webp",
+      "width": 1039,
+      "height": 584
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Fame & Partners"
+      },
+      {
+        "type": "text",
+        "text": "At Fame & Partners I assumed more of a UX role as opposed to UI. The Fame designers there already had a firm grip of the brand I wasn't going to pretend I understood women's fashion as well as they did. My focus was mainly transforming the more mundane but essential journeys within returns, account management and order processing."
+      },
+      {
+        "type": "image",
+        "src": "/work/fame-partners/01.webp",
+        "width": 1336,
+        "height": 2066
+      },
+      {
+        "type": "heading",
+        "text": "A change of mindset"
+      },
+      {
+        "type": "text",
+        "text": "A challenge for me personally was taking a step back from the UI to focus solely on the user experience and technical functions of the tools we were designing, thereby allow other designer there to decide how it should look."
+      },
+      {
+        "type": "text",
+        "text": "The Fame designers were great brand ambassadors but didn't have a great deal of experience with UX or understanding of Front End Development. I worked closely with them to extend their mock ups into working web pages and keep the UI within the realms of best practice."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/fame-partners/02.webp",
+            "width": 1280,
+            "height": 2278
+          },
+          {
+            "src": "/work/fame-partners/03.webp",
+            "width": 1280,
+            "height": 2642
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "vodafone",
+    "title": "Vodafone",
+    "order": 10,
+    "cover": {
+      "src": "/work/vodafone/00.webp",
+      "width": 1800,
+      "height": 1013
+    },
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "The challenge"
+      },
+      {
+        "type": "text",
+        "text": "Vodafone Australia was bringing its digital experience in line with the latest global brand and UX guidelines. For paying customers, the My Vodafone app and its web equivalent were the heart of that experience, and they needed to feel modern, clear and consistent."
+      },
+      {
+        "type": "image",
+        "src": "/work/vodafone/01.webp",
+        "width": 1800,
+        "height": 1125
+      },
+      {
+        "type": "heading",
+        "text": "My role"
+      },
+      {
+        "type": "text",
+        "text": "I joined in the BAU team, mostly designing banners, and quickly moved into the My Vodafone business unit, which looked after existing customers. I worked in small agile teams and alongside departments outside digital, including retail and customer service."
+      },
+      {
+        "type": "image",
+        "src": "/work/vodafone/02.webp",
+        "width": 1800,
+        "height": 887
+      },
+      {
+        "type": "heading",
+        "text": "The app home screen"
+      },
+      {
+        "type": "text",
+        "text": "The home screen was our main focus. Usage dials tested very well with customers, so I spent a lot of time refining these complex graphics until they were clear at a glance."
+      },
+      {
+        "type": "heading",
+        "text": "End to end journeys"
+      },
+      {
+        "type": "text",
+        "text": "Most projects spanned many screens with complex interface elements. I built them from components in our style guide so the experience stayed consistent from one journey to the next."
+      },
+      {
+        "type": "image",
+        "src": "/work/vodafone/03.webp",
+        "width": 1800,
+        "height": 862
+      },
+      {
+        "type": "heading",
+        "text": "Support concepts"
+      },
+      {
+        "type": "text",
+        "text": "I also developed concepts for the support section. My favourite, a detective dog called Sherlock, didn't make the final cut, however hard I pushed."
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/vodafone/04.webp",
+            "width": 1600,
+            "height": 1978
+          },
+          {
+            "src": "/work/vodafone/05.webp",
+            "width": 1600,
+            "height": 2358
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "carryology",
+    "title": "Carryology",
+    "order": 11,
+    "cover": {
+      "src": "/work/carryology/00.webp",
+      "width": 720,
+      "height": 405
+    },
+    "blocks": [
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/carryology/01.webp",
+            "width": 720,
+            "height": 540
+          },
+          {
+            "src": "/work/carryology/02.webp",
+            "width": 1200,
+            "height": 900
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/work/carryology/03.webp",
+        "width": 1280,
+        "height": 3603
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/carryology/04.webp",
+            "width": 1280,
+            "height": 5620
+          },
+          {
+            "src": "/work/carryology/05.webp",
+            "width": 1280,
+            "height": 2430
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "kmart",
+    "title": "Kmart",
+    "order": 12,
+    "cover": {
+      "src": "/work/kmart/00.webp",
+      "width": 1500,
+      "height": 843
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/work/kmart/01.webp",
+        "width": 1500,
+        "height": 1167
+      },
+      {
+        "type": "image",
+        "src": "/work/kmart/02.webp",
+        "width": 1600,
+        "height": 1820
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/kmart/03.webp",
+            "width": 1280,
+            "height": 2296
+          },
+          {
+            "src": "/work/kmart/04.webp",
+            "width": 1280,
+            "height": 2262
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "outdoorkit",
+    "title": "Outdoorkit",
+    "order": 13,
+    "cover": {
+      "src": "/work/outdoorkit/00.webp",
+      "width": 1200,
+      "height": 675
+    },
+    "blocks": [
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/outdoorkit/01.webp",
+            "width": 1200,
+            "height": 900
+          },
+          {
+            "src": "/work/outdoorkit/02.webp",
+            "width": 1200,
+            "height": 848
+          },
+          {
+            "src": "/work/outdoorkit/03.webp",
+            "width": 1440,
+            "height": 2450
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "/work/outdoorkit/04.webp",
+        "width": 1800,
+        "height": 1400
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/outdoorkit/05.webp",
+            "width": 1200,
+            "height": 900
+          },
+          {
+            "src": "/work/outdoorkit/06.webp",
+            "width": 1440,
+            "height": 2550
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "perfect-lights",
+    "title": "Perfect Lights",
+    "order": 14,
+    "cover": {
+      "src": "/work/perfect-lights/00.webp",
+      "width": 1200,
+      "height": 675
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/work/perfect-lights/01.webp",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/perfect-lights/02.webp",
+            "width": 1440,
+            "height": 2850
+          },
+          {
+            "src": "/work/perfect-lights/03.webp",
+            "width": 1440,
+            "height": 2703
+          }
+        ]
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/perfect-lights/04.webp",
+            "width": 1200,
+            "height": 844
+          },
+          {
+            "src": "/work/perfect-lights/05.webp",
+            "width": 1200,
+            "height": 844
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "maxcap",
+    "title": "Maxcap",
+    "order": 15,
+    "cover": {
+      "src": "/work/maxcap/00.webp",
+      "width": 1200,
+      "height": 675
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/work/maxcap/01.webp",
+        "width": 1800,
+        "height": 2063
+      },
+      {
+        "type": "image",
+        "src": "/work/maxcap/02.webp",
+        "width": 1800,
+        "height": 1703
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "mont",
+    "title": "Mont",
+    "order": 16,
+    "cover": {
+      "src": "/work/mont/00.webp",
+      "width": 720,
+      "height": 405
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/work/mont/01.webp",
+        "width": 1200,
+        "height": 810
+      },
+      {
+        "type": "image",
+        "src": "/work/mont/02.webp",
+        "width": 1200,
+        "height": 2354
+      },
+      {
+        "type": "image",
+        "src": "/work/mont/03.webp",
+        "width": 1200,
+        "height": 2413
+      }
+    ],
+    "year": "2018"
+  },
+  {
+    "slug": "pinos-dolce-vita",
+    "title": "Pino's Dolce Vita",
+    "order": 17,
+    "cover": {
+      "src": "/work/pinos-dolce-vita/00.webp",
+      "width": 720,
+      "height": 405
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/work/pinos-dolce-vita/01.webp",
+        "width": 1200,
+        "height": 1260
+      },
+      {
+        "type": "gallery",
+        "images": [
+          {
+            "src": "/work/pinos-dolce-vita/02.webp",
+            "width": 1200,
+            "height": 1260
+          },
+          {
+            "src": "/work/pinos-dolce-vita/03.webp",
+            "width": 1200,
+            "height": 2209
+          }
+        ]
+      }
+    ],
+    "year": "2018"
+  }
+]
