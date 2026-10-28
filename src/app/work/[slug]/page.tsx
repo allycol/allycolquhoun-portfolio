@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const intro = p.blocks.find((b) => b.type === 'text');
   return {
     title: p.name,
-    description: intro && 'text' in intro ? intro.text.slice(0, 160) : `${p.name} — ${p.tags.join(', ')}`,
+    description: p.summary ?? (intro && 'text' in intro ? intro.text.slice(0, 160) : `${p.name} — ${p.tags.join(', ')}`),
     openGraph: { images: [p.cover.src] },
   };
 }
@@ -43,15 +43,18 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
           Case {pad(p.index)} <span>/ {pad(projects.length)}</span>
         </p>
         <h1 className="case-title">{p.name}</h1>
+      </header>
+
+      <div className="case-lead">
         <dl className="case-meta">
           <div><dt>Year</dt><dd>{p.year}</dd></div>
           <div><dt>Discipline</dt><dd>{p.tags.join(', ')}</dd></div>
+          {p.summary && <div className="case-overview"><dt>Overview</dt><dd>{p.summary}</dd></div>}
         </dl>
-      </header>
-
-      <figure className="case-cover">
-        <Pic img={p.cover} alt={`${p.name} — cover`} priority />
-      </figure>
+        <figure className="case-cover">
+          <Pic img={p.cover} alt={`${p.name} — cover`} priority />
+        </figure>
+      </div>
 
       <div className="case-body">
         {sections.map((s, i) => {

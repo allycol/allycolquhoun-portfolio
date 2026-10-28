@@ -13,17 +13,20 @@ export type Project = {
   slug: string;
   name: string;
   tags: string[];
+  summary?: string;
   year: string | null;
   cover: Img;
   blocks: Block[];
   index: number;
 };
 
-export const projects: Project[] = (raw as unknown as Omit<Project, 'name' | 'tags' | 'index'>[])
+export const projects: Project[] = (raw as unknown as Omit<Project, 'name' | 'tags' | 'summary' | 'index'>[])
   .map((p, i) => ({
     ...p,
     name: META[p.slug]?.name ?? p.slug,
     tags: META[p.slug]?.tags ?? [],
+    summary: META[p.slug]?.summary,
+    year: META[p.slug]?.year ?? p.year,
     index: i + 1,
   }));
 
