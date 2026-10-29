@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { sendEmail } from '@/lib/emailGateway';
+import { sendEmail } from '@/lib/email';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -22,13 +22,13 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'Please enter a message (at least 10 characters).' }, { status: 400 });
   }
 
-  // Fixed recipient from env (GoDaddy email-gateway contract, rule C13) — fail closed if unset.
+  // Fixed recipient from env — fail closed if unset.
   const recipient = process.env.CONTACT_FORM_RECIPIENT_EMAIL;
   try {
     if (!recipient) throw new Error('CONTACT_FORM_RECIPIENT_EMAIL is not set');
     await sendEmail({
       to: recipient,
-      replyTo: email.trim(),
+      replyTo: { email: email.trim(), name: name.trim() },
       subject: `Portfolio enquiry from ${name.trim()}`,
       text: `${message.trim()}\n\n—\n${name.trim()} <${email.trim()}>`,
     });
